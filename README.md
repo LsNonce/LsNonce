@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LsNonce
-- 👀 I’m interested in Design
-- 🌱 I’m currently learning AE
-- 💞️ I’m looking to collaborate on Discord
+- 👀 I’m interested in Proggraming
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on any IT company
 - 📫 How to reach me idk
 
 <!---
